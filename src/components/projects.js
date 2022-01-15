@@ -39,7 +39,7 @@ function Projects() {
                     </tr>
                     <tr>
                         <td className="w-50"> <img class="projectImg d-flex justify-content-center" src={reactPortfolio} alt="reactProject" /></td>
-                        <td class="fw-bold"><a href=""  target={"_blank"}>Portfolio</a> Website using React</td>
+                        <td class="fw-bold"><a href="https://react-portfolio-gurvir-singh.herokuapp.com/"  target={"_blank"}>Portfolio</a> Website using React</td>
                         <td>In this personal project, I used React to build a simple Portfolio website using HTML, CSS, Node JS and libraries such
                             as Bootstrap and FontAwesome.
                         </td>
