@@ -1,0 +1,28 @@
+.home{
+    margin-top: 2%;
+}
+.hero{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 70px;
+}
+.subTitle{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+
+blockquote{
+    color: #2f544b;
+font-family: 'Moon Dance', cursive;
+font-size: 30px;
+    font-weight: bold;
+}
+figure{
+    padding-bottom: 60px;
+}
+.aboutLink{
+    color: white;
+    margin-bottom: 0px;
+}
